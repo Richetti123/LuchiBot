@@ -28,9 +28,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *Owner:* LuchiBot
 ║➤ *Numero:* wa.me/5491155032393
-║➤ *Creador 1:* wa.me/56954390663
-║➤ *Creador 2:* wa.me/56945086055
-║➤ *Instagram:* https://www.instagram.com/lulita_16
+║➤ *Instagram:* https://www.instagram.com/lulita.__16
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios regs:* ${rtotalreg}
